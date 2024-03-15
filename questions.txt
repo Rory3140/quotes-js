@@ -1,0 +1,6 @@
+1. Closest Datacente: northamerica-east4
+
+2. Client-side Javascript is run on the browser of the device accessing the webpage, whereas server-side Javascript is run on the external web server.
+
+3. Github pages does not offer you a service to host web servers.
+
